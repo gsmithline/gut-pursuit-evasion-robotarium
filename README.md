@@ -1,3 +1,6 @@
+## Note:
+This is an extension repository built off of one from the HeroLab at UGA. 
+
 # gut-pursuit-evasion-robotarium
 Software codes for running the Game-theoretic Utility Tree (GUT) algorithm for the multi-robot Pursuit-Evasion problem in the [Robotarium](https://www.robotarium.gatech.edu/) simulator-hardware multi-robot testbed.
 
